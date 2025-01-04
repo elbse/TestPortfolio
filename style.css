@@ -269,3 +269,17 @@ body{
         width: 0;
     }
 }
+
+.main{
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.intro{
+    position: relative;
+    font-size: 30px;
+    margin: 20px 0 40px;
+    font-weight: bold;
+}
